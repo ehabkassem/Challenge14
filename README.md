@@ -1,4 +1,4 @@
-We were assumed to be a financial advisor and we had to use machine learning models to make optimum trading decisions. A number of short tasks were provided to us and we had to complete the left out places for code. The challenge also involved making suitable decisions at different along with it's documentation that would explain why a particular decision was made. 
+We were assumed to be a financial advisor and we had to use machine learning models to make optimum trading decisions. A number of short tasks were provided to us and we had to complete the left out places for code. The challenge also involved making suitable decisions at different along with it's documentation that would explain why a particular decision was made. Please see attached images for reference. 
 Following are the some of the points required for this evaluation report:
 # TRAINING SIZE HYPER TUNING
 Effect of changing the training size on accuracy score:
