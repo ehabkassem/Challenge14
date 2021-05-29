@@ -36,4 +36,3 @@ Adaboost classifier was added with the intention to analyze it's performance aga
 
 # PARAMETER HYPER TUNING:
 Grid Search approach was used for hyper tuning as the parameters and their possibilites were less in number. A piece of code was written that training and tested the model for the brute forced hyper parameters. The results were recorded and best parameters were then picked out. Since there were only a few columns in the dataset, the changes were not that big. After using hyper tuning the accuracy of test set increased for almost 4% for both the models.
-
